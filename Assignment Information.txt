@@ -1,15 +1,15 @@
-TASK 
+TASK FREE SELECTION
 
 DETAILED INSTRUCTIONS: 
-https://github.com/Da-vid21/xfig-3.2.8a/
+https://github.com/Da-vid21/xfig-3.2.8a/issues/5
 
 GOAL:
-The goal of this project is 
+The goal of this project is to allow the user to select and move multiple objects simultaneously.
 
 STEPS:
 1. Open Visual Studio Code or your choice of IDE(open it from GitHub).
 2. Check if you have opened the whole xfig folder.
-3. Click on the search icon on the left toolbar and search "#name". **You should see N files with the hashtag.
+3. Click on the search icon on the left toolbar and search "#ffst". **You should see 4 files with the hashtag.
 4. Use the directions provided as comments to work on the assignment.
 5. Go to the desktop and compile you code double-clicking the 'compile.sh' file to check if your solution works.
 
