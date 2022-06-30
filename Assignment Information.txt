@@ -4,7 +4,7 @@ DETAILED INSTRUCTIONS:
 https://github.com/Da-vid21/xfig-3.2.8a/
 
 GOAL:
-The goal of this project is to allow users to export their xfig figures into the VDX format.
+The goal of this project is to allow users to export their xfig figures into the VDX format just as one would be able to with PDF and PNG formatting. After the figure is exported into VDX format the user will then be able to edit the VDX file using the MS Visio tool. 
 
 STEPS:
 1. Open Visual Studio Code or your choice of IDE(open it from GitHub).
@@ -12,5 +12,8 @@ STEPS:
 3. Click on the search icon on the left toolbar and search "#vdx". **You should see 10 files with the hashtag.
 4. Use the directions provided as comments to work on the assignment.
 5. Go to the desktop and compile you code double-clicking the 'compile.sh' file to check if your solution works.
+
+To find more information about the Microsoft VSDX Specification: https://docs.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-vsdx/50c23601-c943-4ff2-b4a1-02445f52daf0
+You will also need to modify the fig2dev program in addition to the xfig source code. To learn more about fig2dev: https://linux.die.net/man/1/fig2dev   
 
 If you are confused at any point with xfig or linux environment, check the youtube video at https://www.youtube.com/watch?v=Csxk165L358.
